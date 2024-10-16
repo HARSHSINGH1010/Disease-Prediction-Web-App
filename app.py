@@ -26,7 +26,7 @@ with st.sidebar:
 if selected == 'Heart Disease Prediction':
 
     # page title
-    st.title('HeartFlect where you predict your heart's future')
+    st.title('HeartFlect where you predict your future')
 
     col1, col2, col3 = st.columns(3)
 
